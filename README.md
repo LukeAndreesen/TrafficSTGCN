@@ -1,0 +1,1 @@
+This project implements a Spatio-Temporal Graph Convolutional Network (initially proposed by [Yu et al.](https://arxiv.org/pdf/1709.04875). This project includes both a Python implementation of the model and its application to the METR-LA traffic dataset, as well as an accompanying paper describing the project's process and results. 
